@@ -23,7 +23,7 @@ twitter_username: bit_cmdr
 github_username: bitcmdr
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
