@@ -10,6 +10,7 @@ tags:
     - gh-pages
     - blog
     - node.js
+disqus_id: 4
 ---
 
 Taking Inventory and Setting Up

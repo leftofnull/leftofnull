@@ -9,6 +9,7 @@ tags:
     - Right Click
     - Open Directory
     - Open Folder
+disqus_id: 11
 ---
 
 **[Sublime Text](http://http://www.sublimetext.com/)**

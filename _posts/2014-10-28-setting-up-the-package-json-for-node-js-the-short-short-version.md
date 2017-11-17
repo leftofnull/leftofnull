@@ -10,6 +10,7 @@ tags:
     - npm
     - npm install
     - npm init
+disqus_id: 10
 ---
 
 Package.json
